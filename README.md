@@ -1,57 +1,189 @@
-# Hi, I'm HeavyGhost! 👋
-**CyberSec Enthusiast | Penetration Tester | Security Researcher**
+<div align="center">
 
-## 💻 About Me
-I focus on offensive security and vulnerability research. I enjoy breaking systems and developing tools to help secure networks and applications.
+```
+██╗  ██╗███████╗ █████╗ ██╗   ██╗██╗   ██╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
+██║  ██║██╔════╝██╔══██╗██║   ██║╚██╗ ██╔╝██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
+███████║█████╗  ███████║██║   ██║ ╚████╔╝ ██║  ███╗███████║██║   ██║███████╗   ██║   
+██╔══██║██╔══╝  ██╔══██║╚██╗ ██╔╝  ╚██╔╝  ██║   ██║██╔══██║██║   ██║╚════██║   ██║   
+██║  ██║███████╗██║  ██║ ╚████╔╝    ██║   ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝     ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
+```
 
-* 🔭 I'm currently learning advanced Active Directory exploitation techniques
-* 🌱 I'm improving my skills in Python, C++, PowerShell, and system internals
-* 👯 I'm open to collaborating on security tools and penetration testing projects
-* 💬 Ask me about penetration testing or Active Directory security
-* 🎯 Currently preparing for OSCP certification
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=OFFENSIVE+SECURITY+RESEARCHER;PENETRATION+TESTER;ACTIVE+DIRECTORY+SPECIALIST;EXPLOIT+DEVELOPER" alt="Typing SVG" />
 
-## 🛠 Skills & Tools
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-### Languages
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **ABOUT THE GHOST**
+
+```python
+class HeavyGhost:
+    def __init__(self):
+        self.username = "HeavyGhost"
+        self.role = "Offensive Security Researcher"
+        self.location = "Cyberspace"
+        self.current_mission = "Active Directory Domination"
+        self.certification_target = "OSCP"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "C++", "PowerShell", "Bash"],
+            "expertise": [
+                "Active Directory Exploitation",
+                "Binary Exploitation",
+                "Credential Harvesting",
+                "AV/EDR Evasion",
+                "Network Penetration Testing"
+            ],
+            "tools": ["Metasploit", "Burp Suite", "BloodHound", "Impacket"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🎯 Mastering AD attack vectors",
+            "💀 Developing offensive security tools",
+            "🔓 Binary exploitation techniques",
+            "👻 Researching evasion methods"
+        ]
+```
+
+---
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **TECH ARSENAL**
+
+<div align="center">
+
+#### 🛡️ **Languages & Scripts**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Security Tools & Frameworks
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+#### ⚔️ **Offensive Tools**
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### Specializations
-- 🎯 Active Directory Penetration Testing
-- 🚀 Binary Exploitation & Memory Corruption
-- 🔐 Kerberoasting, AS-REP Roasting, Password Spraying
-- 📊 Heap Dump Analysis & Credential Extraction
-- ⚡ AV/EDR Evasion Techniques
+#### 💻 **Platforms**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📂 Featured Projects
-
-### [ad-exploitation-toolkit](https://github.com/HeavyGhost-le/ad-exploitation-toolkit)
-Active Directory penetration testing toolkit with modular design for enumeration, exploitation, and post-exploitation. Supports Kerberoasting, AS-REP roasting, password spraying, and share enumeration.
-
-### [heapdump_analyzer](https://github.com/HeavyGhost-le/heapdump_analyzer)
-🔍 Extract credentials, sessions & crypto artifacts from Java heap dumps. Inspired by Hack The Box's Eureka machine.
-
-### More Projects
-Check out my repositories for more security tools, scripts, and experiments: [**All GitHub Repositories**](https://github.com/HeavyGhost-le?tab=repositories)
-
-## 📈 GitHub Stats
-
-![HeavyGhost-le's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeavyGhost-le&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGhost-le&layout=compact&theme=radical)
-
-## 🤝 Connect with Me
-* 💼 Open to collaborations on security research and tool development
-* 📫 Feel free to reach out for pentesting discussions or project ideas
+</div>
 
 ---
 
-**"In cybersecurity, the only constant is change. Stay curious, stay learning."**
+### 🎯 **ATTACK VECTORS**
+
+<div align="center">
+
+| 🔴 **Domain** | 🎯 **Specialization** |
+|:---|:---|
+| 🏰 **Active Directory** | Kerberoasting, AS-REP Roasting, DCSync, Golden Tickets |
+| 💉 **Binary Exploitation** | Buffer Overflows, Memory Corruption, Shellcoding |
+| 🔐 **Credential Access** | Heap Dump Analysis, LSASS Dumping, Password Spraying |
+| 👻 **Evasion Techniques** | AV/EDR Bypass, Process Injection, AMSI Evasion |
+| 🌐 **Network Attacks** | Lateral Movement, Pivoting, Port Forwarding |
+
+</div>
+
+---
+
+### 🚀 **WEAPONIZED REPOSITORIES**
+
+<div align="center">
+
+[![ad-exploitation-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=HeavyGhost-le&repo=ad-exploitation-toolkit&theme=chartreuse-dark&hide_border=true)](https://github.com/HeavyGhost-le/ad-exploitation-toolkit)
+[![heapdump_analyzer](https://github-readme-stats.vercel.app/api/pin/?username=HeavyGhost-le&repo=heapdump_analyzer&theme=chartreuse-dark&hide_border=true)](https://github.com/HeavyGhost-le/heapdump_analyzer)
+
+</div>
+
+---
+
+### 📊 **OPERATIONAL STATS**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HeavyGhost-le&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HeavyGhost-le&theme=chartreuse-dark&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGhost-le&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+### 🎮 **CURRENT MISSION OBJECTIVES**
+
+```bash
+root@kali:~# cat current_objectives.txt
+[✓] Develop AD exploitation framework
+[►] Master binary exploitation techniques  
+[►] Achieve OSCP certification
+[►] Build advanced evasion toolkit
+[►] Contribute to offensive security community
+```
+
+---
+
+### 🤝 **COLLABORATION PROTOCOLS**
+
+```javascript
+const collaboration = {
+    open_to: [
+        "🔨 Offensive security tool development",
+        "🎯 Penetration testing projects", 
+        "💀 Exploit research and PoC creation",
+        "🛡️ Red team operations discussion"
+    ],
+    contact: "Open to security research collaborations",
+    pgp_key: "Available upon request"
+}
+```
+
+---
+
+### 🌐 **ACTIVE NETWORKS**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HeavyGhost-le)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💀 **"The best defense is a good offense"** 💀
+
+<img src="https://komarev.com/ghpvc/?username=HeavyGhost-le&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+
+```
+ _____________________________________________
+/ HACK THE PLANET                            \
+| [System Access Granted]                    |
+| [Root Privileges: ENABLED]                 |
+\ [Ghost Mode: ACTIVE]                       /
+ ---------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+**⚡ Stay Curious. Stay Anonymous. Stay Learning. ⚡**
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
