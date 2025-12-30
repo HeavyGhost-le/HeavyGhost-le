@@ -1,4 +1,4 @@
-# Hi, I'm HeavyGhost-le! 👋
+# Hi, I'm HeavyGhost! 👋
 **CyberSec Enthusiast | Penetration Tester | Security Researcher**
 
 ## 💻 About Me
