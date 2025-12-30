@@ -107,10 +107,13 @@ class HeavyGhost:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HeavyGhost-le&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HeavyGhost-le&theme=chartreuse-dark&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeavyGhost-le&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGhost-le&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=HeavyGhost-le&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeavyGhost-le&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HeavyGhost-le&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff)
 
 </div>
 
