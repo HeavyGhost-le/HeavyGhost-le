@@ -83,7 +83,6 @@ class HeavyGhost:
 | 🔴 **Domain** | 🎯 **Specialization** |
 |:---|:---|
 | 🏰 **Active Directory** | Kerberoasting, AS-REP Roasting, DCSync, Golden Tickets |
-| 💉 **Binary Exploitation** | Buffer Overflows, Memory Corruption, Shellcoding |
 | 🔐 **Credential Access** | Heap Dump Analysis, LSASS Dumping, Password Spraying |
 | 👻 **Evasion Techniques** | AV/EDR Bypass, Process Injection, AMSI Evasion |
 | 🌐 **Network Attacks** | Lateral Movement, Pivoting, Port Forwarding |
